@@ -1,2 +1,8 @@
-package org.example;public enum CardSuit {
+package org.example;
+
+public enum CardSuit {
+    HEARTS,
+    SPADES,
+    CLUBS,
+    DIAMONDS
 }
